@@ -1,0 +1,37 @@
+Loan Management System Project is used for computerization of back office activities involved in loan application processing work. Loan Management System Project is a very efficient project to handle all loan related transaction efficiently. This is very helpful for loan providing organization for customer registration, EMI calculation and loan approval process.
+
+Abstract of Loan Management System Project
+=================================
+This project mainly deals with the automation activities performed while granting new loan. It keeps record of various kinds of loan, their customers and monthly installments. All the master record of the loan automation system like loan type, loan percentage, city and state are maintained by admin of the organization. Customer record entry is done by the concern staff along with his all details and loan type applied for. After approval customer is given a unique loan id. Customer pays EMI to that loan id. This system also has EMI calculator for easy calculation.
+
+Objectives of Loan automation system project
+==================================
+The main objectives of ‘loan automation system project’ are as follows:
+
+Facility to store the information of new customer, different types of loans provided by the banking, interest rates of different types on loan etc.
+Facility to calculate EMI based on loan amount and period of repayment.
+Facility to keep record of all loans given by the bank and there current status, also keep record of loan repayment and late fine.
+Facility to generate different reports, which are helpful for the management in decision making.
+Facility to change user’s password account.
+
+
+Modules of Loan Management System Project
+Main modules of “Loan Management System Project” are as follows:
+====================================================
+User login
+New user
+Edit profile
+Loan type
+City master
+State master
+Customer entry
+Loan application
+Loan register
+Receive payment
+EMI calculation
+Loan statement
+Customer enquiry
+Customer list
+User list
+View customer enquiry
+Change password
